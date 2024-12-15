@@ -29,19 +29,19 @@ const Homepage = () => {
                         </Link>
                         <div className="flex gap-[8px]">
                             <div className="flex ">
-                                <img src="/src/assets/user1.png" alt="" className="w-[41px] h-[41px] rounded-full z-1 border-2 boredr-[#fffff0]"/>
-                                <img src="/src/assets/user2.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-2 border-2 boredr-[#fffff0]"/>
-                                <img src="/src/assets/user3.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-3 border-2 boredr-[#fffff0]"/>
-                                <img src="/src/assets/user4.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-4 border-2 boredr-[#fffff0]"/>
+                                <img src="assets/user1.png" alt="" className="w-[41px] h-[41px] rounded-full z-1 border-2 boredr-[#fffff0]"/>
+                                <img src="assets/user2.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-2 border-2 boredr-[#fffff0]"/>
+                                <img src="assets/user3.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-3 border-2 boredr-[#fffff0]"/>
+                                <img src="assets/user4.png" alt="" className="w-[41px] h-[41px] -ml-[12px] rounded-full z-4 border-2 boredr-[#fffff0]"/>
                             </div>
                             <div className="flex flex-col">
                                 <h6 className="text-black text-base font-bold font-['Plus Jakarta Sans'] leading-[19px]">Dipercaya oleh 100k orang</h6>
                                 <div className="flex items-end">
-                                    <img src="/src/assets/Star.svg" alt="" className="w-6 h-6 "/>
-                                    <img src="/src/assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
-                                    <img src="/src/assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
-                                    <img src="/src/assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
-                                    <img src="/src/assets/star_half.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
+                                    <img src="assets/Star.svg" alt="" className="w-6 h-6 "/>
+                                    <img src="assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
+                                    <img src="assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
+                                    <img src="assets/Star.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
+                                    <img src="assets/star_half.svg" alt="" className="w-6 h-6 -ml-[5px]"/>
                                     <h6 className="text-black text-base font-bold font-['Plus Jakarta Sans'] leading-[19px]">4.5/5 (50k  Ulasan)</h6>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ const Homepage = () => {
                     </div>
                     <div className="w-1/2 ml-20">
                         <img
-                            src="/src/assets/Banner Homepage.jpg"
+                            src="assets/Banner Homepage.jpg"
                             alt=""
                             style={{ width: "96%", height: "auto", marginLeft:"30px"  }}
                         />
